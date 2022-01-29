@@ -111,7 +111,7 @@ src: url(Framework7Icons-Regular.woff2);
     right: 0;
     width: 65%;
     max-width: 400px;
-    background: linear-gradient(45deg, rgba(255,255,255,.1) 0%, rgba(255,255,255,.6) 100%);
+    background: linear-gradient(45deg, rgba(76, 0, 231,.1) 0%, rgba(160, 47, 232,.6) 100%);
     border-radius: 20px;
     -webkit-backdrop-filter: blur(20px);
     backdrop-filter: blur(20px);
@@ -129,10 +129,6 @@ background-image: linear-gradient(90deg, hsla(231, 69%, 40%, 1) 0%, hsla(215, 76
 .nav a.un-active {
 color: #e8effa;
 }
-.apps:hover {
-background: linear-gradient(45deg, rgba(255,255,255,.1) 0%, rgba(255,255,255,.6) 100%);
-}
-
 .apps {	
 width: 85%;
 padding: 8px;
