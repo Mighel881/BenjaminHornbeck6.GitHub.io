@@ -173,7 +173,7 @@ margin-left: 10px;
 width: 40px;
 height: 40px;
 border-radius: 23.3%;
-box-shadow: 1px 2px 10px #2036AE;
+box-shadow: 1px 2px 10px rgba(160, 47, 232,.6);
 }
 .top-app h1 {
 font-size: 17px;
