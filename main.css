@@ -28,7 +28,7 @@ text-decoration: none;
     width: 100%;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
-    background: linear-gradient(45deg, rgba(255,255,255,.1) 0%, rgba(255,255,255,.6) 100%);
+    background: linear-gradient(45deg, rgba(76, 0, 231,.1) 0%, rgba(160, 47, 232,.6) 100%);
     -webkit-backdrop-filter: blur(20px);
     backdrop-filter: blur(20px);
   }
