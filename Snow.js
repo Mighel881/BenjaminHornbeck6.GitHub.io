@@ -168,6 +168,3 @@
   function setResetFlag(e) {
     resetPosition = true;
   }
-
-
-}
