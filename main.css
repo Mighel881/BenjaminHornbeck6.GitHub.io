@@ -199,6 +199,23 @@ margin-bottom: 0px;
 color: #e8effa;
 text-align: justify;
 }
+.snowflakeContainer {
+position: absolute;
+left: 0px;
+top: 0px;
+display: none;
+visibility: visible;
+}
+.snowflake {
+position: fixed;
+background-color: #e8effa;
+user-select: none;
+z-index: 1000;
+pointer-events: none;
+border-radius: 50%;
+width: 13px;
+height: 13px;
+}
 #myInput::placeholder {
 color: #e8effa;
 }
