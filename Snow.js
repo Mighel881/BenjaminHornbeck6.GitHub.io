@@ -171,24 +171,3 @@
 
 
 }
-/*
-     FILE ARCHIVED ON 17:59:02 Dec 13, 2021 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 00:47:15 Jan 30, 2022.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 248.336
-  exclusion.robots: 0.204
-  exclusion.robots.policy: 0.188
-  cdx.remote: 0.122
-  esindex: 0.016
-  LoadShardBlock: 222.91 (3)
-  PetaboxLoader3.datanode: 217.333 (4)
-  CDXLines.iter: 16.599 (3)
-  load_resource: 163.705
-  PetaboxLoader3.resolve: 67.721
-*/
