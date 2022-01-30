@@ -1,0 +1,34 @@
+{
+  "name": "AppInstaller iOS",
+  "identifier": "com.AppInstalleriOS.AltStoreRepo",
+  "apps": [
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "com.utmapp.UTM",
+      "filename": "unc0ver_Release_8.0.2.ipa",
+      "githubOwner": "BenjaminHornbeck6",
+      "githubRepository": "Icons",
+      "skipPrerelease": true,
+      "developerName": "Pwn20wnd",
+      "subtitle": "Jailbreak iOS 11 - 14.8",
+      "localizedDescription": "Jailbreak iOS 11 - 14.8",
+      "iconURL": "https://icons.appinstallerios.com/Unc0verIcon.png",
+      "tintColor": "1a2cc2",
+      "screenshotURLs": [
+        "https://alt.getutm.app/screen0.png",
+        "https://alt.getutm.app/screen1.png",
+        "https://alt.getutm.app/screen2.png",
+        "https://alt.getutm.app/screen3.png",
+        "https://alt.getutm.app/screen4.png",
+        "https://alt.getutm.app/screen5.png",
+        "https://alt.getutm.app/screen6.png"
+      ],
+      "version": "8.0.2",
+      "versionDate": "2022-01-22T21:17:22Z",
+      "versionDescription": "Bug Filxes",
+      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+      "size": 198102741
+    }
+  ],
+  "news": []
+}
