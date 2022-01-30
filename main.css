@@ -155,22 +155,6 @@ float: left;
 margin-top: 7px;
 margin-bottom: 0px;
 }
-#myInput {	
-background-position: 10px 12px;
-background-repeat: no-repeat;
-width: 45%;
-height: 1%;
-font-size: 16px;
-padding: 10px 17px 10px 37px;
-margin-bottom: 9px;
-margin: 10px;
-border-radius: 20px;
-color: #e8effa;
-border: none;
-outline: none;
-border: 2px solid #e8effa;
-background: none;
-}
 .top-app {
 background: linear-gradient(45deg, rgba(76, 0, 231,.1) 0%, rgba(160, 47, 232,.6) 100%);
 padding-bottom: 15px;
