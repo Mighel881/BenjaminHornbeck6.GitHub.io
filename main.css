@@ -15,6 +15,17 @@ user-select: none;
 a {
 text-decoration: none;
 }
+.search {
+position: fixed;
+margin: auto;
+left: 0;
+right: 0;
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+background: linear-gradient(45deg, rgba(76, 0, 231,.1) 0%, rgba(160, 47, 232,.6) 100%);
+-webkit-backdrop-filter: blur(20px);
+backdrop-filter: blur(20px);
+}
 @supports (
   (-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))
 ) {
@@ -202,6 +213,23 @@ margin-top: 0px;
 margin-bottom: 0px;
 color: #e8effa;
 text-align: justify;
+}
+#myInput {	
+background-position: 10px 12px;
+background-repeat: no-repeat;
+width: 45%;
+height: 1%;
+font-size: 16px;
+padding: 10px 17px 10px 37px;
+margin-bottom: 9px;
+margin: 10px;
+border-radius: 20px;
+color: #e8effa;
+outline: none;
+border: 2px solid #e8effa;
+background: none;
+-webkit-backdrop-filter: blur(20px);
+backdrop-filter: blur(20px);
 }
 #myInput::placeholder {
 color: #e8effa;
