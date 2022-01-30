@@ -51,10 +51,10 @@
 
     // declare variables used for snowflake's motion
     this.counter = 0;
-    this.sign = Math.random() < 0.5 ? 1 : -1;
+    this.sign = Math.random() < 0.10 ? 1 : -1;
 
     // setting an initial opacity and size for our snowflake
-    this.element.style.opacity = (.1 + Math.random()) / 3;
+    this.element.style.opacity = (1 + Math.random()) / 3;
   }
 
   //
