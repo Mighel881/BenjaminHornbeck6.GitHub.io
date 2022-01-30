@@ -228,10 +228,11 @@ margin: 10px;
 border-radius: 20px;
 color: #e8effa;
 outline: none;
-border: 2px solid #e8effa;
+border: none;
 background: none;
 -webkit-backdrop-filter: blur(20px);
 backdrop-filter: blur(20px);
+box-shadow: 1px 2px 10px rgba(160, 47, 232,.6);
 }
 #myInput::placeholder {
 color: #e8effa;
