@@ -26,7 +26,7 @@
     },
     {
       "name": "Taurine",
-      "bundleIdentifier": "com.AppInstalleriOS.Taurine",
+      "bundleIdentifier": "com.odysseyteam.taurine",
       "filename": "Taurine-1.1.1.ipa",
       "githubOwner": "BenjaminHornbeck6",
       "githubRepository": "Icons",
