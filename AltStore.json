@@ -13,7 +13,7 @@
       "subtitle": "Jailbreak iOS 11 - 14.8",
       "localizedDescription": "Jailbreak iOS 11 - 14.8",
       "iconURL": "https://icons.appinstallerios.com/Unc0verIcon.png",
-      "tintColor": "1a2cc2",
+      "tintColor": "1C0B36",
       "screenshotURLs": [
         "https://appinstallerios.com/Img/Screenshots/Unc0verScreenshot1.png",
         "https://appinstallerios.com/Img/Screenshots/Unc0verScreenshot2.png"
@@ -26,16 +26,16 @@
     },
     {
       "name": "Taurine",
-      "bundleIdentifier": "com.utmapp.UTM",
+      "bundleIdentifier": "com.AppInstalleriOS.Taurine",
       "filename": "Taurine-1.1.1.ipa",
       "githubOwner": "BenjaminHornbeck6",
       "githubRepository": "Icons",
       "skipPrerelease": true,
-      "developerName": "Pwn20wnd",
-      "subtitle": "Jailbreak iOS 11 - 14.8",
+      "developerName": "CoolStar",
+      "subtitle": "Time to get amped.",
       "localizedDescription": "Jailbreak iOS 14 - 14.3",
       "iconURL": "https://icons.appinstallerios.com/TaurineIcon.png",
-      "tintColor": "1a2cc2",
+      "tintColor": "1C0B36",
       "screenshotURLs": [
         "https://appinstallerios.com/Img/Screenshots/Unc0verScreenshot1.png",
         "https://appinstallerios.com/Img/Screenshots/Unc0verScreenshot2.png"
