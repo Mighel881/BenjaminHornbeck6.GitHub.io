@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "unc0ver",
-      "bundleIdentifier": "com.utmapp.UTM",
+      "bundleIdentifier": "science.xnu.unc0ver",
       "filename": "unc0ver_Release_8.0.2.ipa",
       "githubOwner": "BenjaminHornbeck6",
       "githubRepository": "Icons",
