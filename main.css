@@ -23,6 +23,7 @@ max-width: 125px;
 box-shadow: 1px 2px 10px rgba(160, 47, 232,.6);
 font-size: 20px;
 font-weight: 600;
+color: #e8effa;
 }
 .snowflakeContainer {
 position: absolute;
