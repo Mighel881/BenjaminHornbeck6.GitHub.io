@@ -30,7 +30,7 @@ position: absolute;
 left: 0px;
 top: 0px;
 display: none;
-visibility: visible;
+visibility: hidden;
 }
 .snowflake {
 position: fixed;
