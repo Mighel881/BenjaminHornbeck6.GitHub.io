@@ -45,7 +45,7 @@ border-radius: 50%;
 width: 13px;
 height: 13px;
 }
-.search.private {
+.private {
 position: fixed;
 margin: auto;
 left: 0;
