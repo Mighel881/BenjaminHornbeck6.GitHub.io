@@ -45,6 +45,12 @@ border-radius: 50%;
 width: 13px;
 height: 13px;
 }
+.search.private {
+position: fixed;
+margin: auto;
+left: 0;
+right: 0;
+}
 .search {
 position: fixed;
 margin: auto;
