@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.AppInstalleriOS.Cercube</string>
+				<string>com.AppInstalleriOS.YouTubePro</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Private - Cercube</string>
+				<string>Private - YouTube Pro</string>
 			</dict>
 		</dict>
 	</array>
