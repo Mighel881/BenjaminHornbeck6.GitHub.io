@@ -1,6 +1,6 @@
 {
     "short_name": "AppInstaller iOS",
     "name": "AppInstaller iOS",
-    "theme_color": "#f69435",
+    "theme_color": "#1C0B36;",
     "display": "standalone"
 }
