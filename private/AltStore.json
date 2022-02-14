@@ -1,7 +1,6 @@
 {
   "name": "Private AI",
   "identifier": "com.AppInstalleriOS.PrivateAI.AltStoreRepo",
-  "sourceURL": "https://appinstallerios.com/private/AltStore.json",
   "apps": [
     {
       "name": "unc0ver",
