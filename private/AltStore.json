@@ -1,0 +1,69 @@
+{
+  "name": "Private AI",
+  "identifier": "com.AppInstalleriOS.PrivateAI.AltStoreRepo",
+  "apps": [
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "science.xnu.unc0ver",
+      "filename": "unc0ver_Release_8.0.2.ipa",
+      "githubOwner": "BenjaminHornbeck6",
+      "githubRepository": "Icons",
+      "skipPrerelease": true,
+      "developerName": "Pwn20wnd",
+      "subtitle": "Jailbreak iOS 11 - 14.8",
+      "localizedDescription": "Jailbreak iOS 11 - 14.8",
+      "iconURL": "https://icons.appinstallerios.com/Unc0verIcon.png",
+      "tintColor": "1C0B36",
+      "screenshotURLs": [
+        "https://appinstallerios.com/Img/Screenshots/Unc0verScreenshot1.png",
+        "https://appinstallerios.com/Img/Screenshots/Unc0verScreenshot2.png"
+      ],
+      "version": "8.0.2",
+      "versionDate": "2022-01-22T21:17:22Z",
+      "versionDescription": "Bug Filxes",
+      "downloadURL": "https://appinstallerios.com/private/IPA/unc0ver.ipa",
+      "size": 198102741
+    },
+    {
+      "name": "Taurine",
+      "bundleIdentifier": "com.odysseyteam.taurine",
+      "filename": "Taurine-1.1.1.ipa",
+      "githubOwner": "BenjaminHornbeck6",
+      "githubRepository": "Icons",
+      "skipPrerelease": true,
+      "developerName": "CoolStar",
+      "subtitle": "Time to get amped.",
+      "localizedDescription": "Jailbreak iOS 14 - 14.3",
+      "iconURL": "https://icons.appinstallerios.com/TaurineIcon.png",
+      "tintColor": "1C0B36",
+      "screenshotURLs": [
+        "https://taurine.app/assets/images/iphones.png",
+        "https://www.iphonehacks.com/wp-content/uploads/2021/04/taurine-jailbreak.jpeg"
+      ],
+      "version": "1.1.1",
+      "versionDate": "2022-01-22T21:17:22Z",
+      "versionDescription": "Bug Filxes",
+      "downloadURL": "https://appinstallerios.com/private/IPA/Taurine.ipa",
+      "size": 198102741
+    },  
+    {
+      "name": "Taurine",
+      "bundleIdentifier": "com.odysseyteam.taurine",
+      "filename": "Taurine-1.1.1.ipa",
+      "githubOwner": "BenjaminHornbeck6",
+      "githubRepository": "Icons",
+      "skipPrerelease": true,
+      "developerName": "CoolStar",
+      "subtitle": "Time to get amped.",
+      "localizedDescription": "Jailbreak iOS 14 - 14.3",
+      "iconURL": "https://icons.appinstallerios.com/TaurineIcon.png",
+      "tintColor": "1C0B36",
+      "version": "1.1.1",
+      "versionDate": "2022-01-22T21:17:22Z",
+      "versionDescription": "Bug Filxes",
+      "downloadURL": "https://appinstallerios.com/private/IPA/YouTube.ipa",
+      "size": 198102741
+    }
+  ],
+  "news": []
+}
