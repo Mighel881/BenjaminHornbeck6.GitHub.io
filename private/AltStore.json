@@ -72,6 +72,16 @@
       "imageURL": "https://appinstallerios.com/Img/AppInstalleriOSBanner.png",
       "date": "2022-02-14T12:30:00-00:00",
       "notify": false
+    },
+    {
+      "title": "Taurine now available!",
+      "identifier": "taurine-release",
+      "caption": "Supports iOS 14.0-14.3",
+      "tintColor": "F65656",
+      "imageURL": "https://taurine.app/assets/images/meta.png",
+      "appID": "com.odysseyteam.taurine",
+      "date": "2021-04-01",
+      "notify": false
     }
   ]
 }
