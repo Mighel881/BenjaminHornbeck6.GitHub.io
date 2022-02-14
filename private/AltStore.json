@@ -67,10 +67,10 @@
   ],
   "news": [
    {
-      "title": "Private Appinstaller (Private AI)",
+      "title": "Private Appinstaller",
       "identifier": "com.AppInstalleriOS.PrivateAI.AltStoreRepo.news",
-      "caption": "Private AI.",
-      "tintColor": "000000",
+      "caption": "Private AI",
+      "tintColor": "FFFFFF",
       "date": "2022-02-14T12:30:00-00:00",
       "notify": false
     }
