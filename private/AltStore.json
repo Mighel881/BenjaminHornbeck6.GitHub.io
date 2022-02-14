@@ -6,7 +6,7 @@
   "news": [
    {
       "title": "Private Appinstaller",
-      "identifier": "com.AppInstalleriOS.PrivateAI.AltStoreRepo.news",
+      "identifier": "com.AppInstalleriOS.PrivateAI.AltStoreRepo.Home",
       "caption": "Private AI. Tap to view",
       "url": "https://appinstallerios.com/private/AltStore.html",
       "tintColor": "1C0B36",
