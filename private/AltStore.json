@@ -48,8 +48,8 @@
     },  
     {
       "name": "YouTube",
-      "bundleIdentifier": "com.google.youtube",
-      "filename": "Taurine-1.1.1.ipa",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "filename": "YouTube.ipa",
       "githubOwner": "BenjaminHornbeck6",
       "githubRepository": "Icons",
       "skipPrerelease": true,
