@@ -2,66 +2,7 @@
   "name": "Private AI",
   "identifier": "com.AppInstalleriOS.PrivateAI.AltStoreRepo",
   "sourceURL": "https://appinstallerios.com/private/AltStore.json",
-  "apps": [
-    {
-      "name": "unc0ver",
-      "bundleIdentifier": "science.xnu.undecimus",
-      "filename": "unc0ver_Release_8.0.2.ipa",
-      "githubOwner": "BenjaminHornbeck6",
-      "githubRepository": "Icons",
-      "skipPrerelease": true,
-      "developerName": "Pwn20wnd",
-      "subtitle": "Jailbreak iOS 11 - 14.8",
-      "localizedDescription": "Jailbreak iOS 11 - 14.8",
-      "iconURL": "https://icons.appinstallerios.com/Unc0verIcon.png",
-      "tintColor": "1C0B36",
-      "version": "8.0.2",
-      "versionDate": "2021-12-29T00:00:00Z",
-      "versionDescription": "Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8",
-      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-      "size": 53213000
-    },
-    {
-      "name": "Taurine",
-      "bundleIdentifier": "com.odysseyteam.taurine",
-      "filename": "Taurine-1.1.1.ipa",
-      "githubOwner": "BenjaminHornbeck6",
-      "githubRepository": "Icons",
-      "skipPrerelease": true,
-      "developerName": "CoolStar",
-      "subtitle": "Time to get amped.",
-      "localizedDescription": "Jailbreak iOS 14 - 14.3",
-      "iconURL": "https://icons.appinstallerios.com/TaurineIcon.png",
-      "tintColor": "1C0B36",
-      "screenshotURLs": [
-        "https://taurine.app/assets/images/iphones.png",
-        "https://www.iphonehacks.com/wp-content/uploads/2021/04/taurine-jailbreak.jpeg"
-      ],
-      "version": "1.1.1",
-      "versionDate": "2022-01-22T21:17:22Z",
-      "versionDescription": "Bug Filxes",
-      "downloadURL": "https://appinstallerios.com/private/IPA/Taurine.ipa",
-      "size": 198102741
-    },  
-    {
-      "name": "YouTube",
-      "bundleIdentifier": "com.google.ios.youtube.73ZNUTGWUU",
-      "filename": "YouTube.ipa",
-      "githubOwner": "BenjaminHornbeck6",
-      "githubRepository": "Icons",
-      "skipPrerelease": true,
-      "developerName": "Google",
-      "subtitle": "Ads Free YouTube",
-      "localizedDescription": "YT Pro",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f9/ad/70/f9ad708a-1784-01e4-b895-b4284c1883cf/source/60x60bb.jpg",
-      "tintColor": "1C0B36",
-      "version": "17.06.3",
-      "versionDate": "2022-01-22T21:17:22Z",
-      "versionDescription": "Bug Filxes",
-      "downloadURL": "https://appinstallerios.com/private/IPA/YouTube.ipa",
-      "size": 73400320
-    }
-  ],
+  "apps": [],
   "news": [
    {
       "title": "Private Appinstaller",
