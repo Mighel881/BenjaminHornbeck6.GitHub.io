@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "unc0ver",
-      "bundleIdentifier": "science.xnu.unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
       "filename": "unc0ver_Release_8.0.2.ipa",
       "githubOwner": "BenjaminHornbeck6",
       "githubRepository": "Icons",
@@ -14,10 +14,6 @@
       "localizedDescription": "Jailbreak iOS 11 - 14.8",
       "iconURL": "https://icons.appinstallerios.com/Unc0verIcon.png",
       "tintColor": "1C0B36",
-      "screenshotURLs": [
-        "https://appinstallerios.com/Img/Screenshots/Unc0verScreenshot1.png",
-        "https://appinstallerios.com/Img/Screenshots/Unc0verScreenshot2.png"
-      ],
       "version": "8.0.2",
       "versionDate": "2021-12-29T00:00:00Z",
       "versionDescription": "Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8",
