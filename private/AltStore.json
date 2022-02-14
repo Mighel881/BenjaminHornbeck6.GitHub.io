@@ -47,8 +47,8 @@
       "size": 198102741
     },  
     {
-      "name": "Taurine",
-      "bundleIdentifier": "com.odysseyteam.taurine",
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.youtube",
       "filename": "Taurine-1.1.1.ipa",
       "githubOwner": "BenjaminHornbeck6",
       "githubRepository": "Icons",
