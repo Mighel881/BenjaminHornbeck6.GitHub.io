@@ -3,13 +3,15 @@
     "Icon": "https://icons.appinstallerios.com/Unc0verIcon.png",
     "Name": "unc0ver",
     "IPA": "https://appinstallerios.com/private/IPA/unc0ver.ipa",
-    "Banner": "https://appinstallerios.com/Img/unc0verBanner.png"
+    "Banner": "https://appinstallerios.com/Img/unc0verBanner.png",
+    "Developer": "pwn20wnd"
   },
   "ZiniTevi": {
     "Icon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
     "Name": "ZiniTevi",
     "IPA": "https://appinstallerios.com/private/IPA/ZiniTevi.ipa",
-    "Banner": "https://appinstallerios.com/Img/ZiniTeviBanner.png"
+    "Banner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
+    "Developer": "ZiniTevi Team"
   },
   "MediaBox HD": {
     "Icon": "https://icons.appinstallerios.com/MediaBoxIcon.png",
