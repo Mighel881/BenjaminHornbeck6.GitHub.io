@@ -23,19 +23,22 @@
     "Icon": "https://icons.appinstallerios.com/OdysseyIcon.png",
     "Name": "Odyssey",
     "IPA": "https://appinstallerios.com/private/IPA/Odyssey.ipa",
-    "Banner": "https://appinstallerios.com/Img/OdysseyBanner.png"
+    "Banner": "https://appinstallerios.com/Img/OdysseyBanner.png",
+    "Developer": "CoolStar"
   },
   "Scarlet": {
     "Icon": "https://icons.appinstallerios.com/ScarletIcon.png",
     "Name": "Scarlet",
     "IPA": "https://appinstallerios.com/private/IPA/Scarlet.ipa",
-    "Banner": "https://appinstallerios.com/Img/ScarletBanner.png"
+    "Banner": "https://appinstallerios.com/Img/ScarletBanner.png",
+    "Developer": "DebianArch"
   },
   "Taurine": {
     "Icon": "https://icons.appinstallerios.com/TaurineIcon.png",
     "Name": "Taurine",
     "IPA": "https://appinstallerios.com/private/IPA/Taurine.ipa",
-    "Banner": "https://appinstallerios.com/Img/TaurineBanner.png"
+    "Banner": "https://appinstallerios.com/Img/TaurineBanner.png",
+    "Developer": "CoolStar"
   },
   "YouTube Reborn": {
     "Icon": "https://icons.appinstallerios.com/YouTubeIcon.png",
