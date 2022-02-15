@@ -17,7 +17,8 @@
     "Icon": "https://icons.appinstallerios.com/MediaBoxIcon.png",
     "Name": "MediaBox HD",
     "IPA": "https://appinstallerios.com/private/IPA/MediaBox.ipa",
-    "Banner": "https://appinstallerios.com/Img/MediaBoxBanner.png"
+    "Banner": "https://appinstallerios.com/Img/MediaBoxBanner.png",
+    "Developer": "AppInstaller iOS"
   },
   "Odyssey": {
     "Icon": "https://icons.appinstallerios.com/OdysseyIcon.png",
