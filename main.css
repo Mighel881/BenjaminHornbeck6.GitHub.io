@@ -28,7 +28,7 @@ font-size: 20px;
 font-weight: 600;
 color: #e8effa;
 }
-. noJS {
+.noJS {
 background: linear-gradient(45deg, rgba(76, 0, 231,.1) 0%, rgba(160, 47, 232,.6) 100%);
 border-radius: 25px;
 width: 125px;
