@@ -51,6 +51,7 @@
     "Icon": "https://icons.appinstallerios.com/MagicSignIcon.png",
     "Name": "MagicSign",
     "IPA": "https://appinstallerios.com/private/IPA/MagicSign.ipa",
-    "Banner": "https://appinstallerios.com/Img/MagicSignBanner.png"
+    "Banner": "https://appinstallerios.com/Img/MagicSignBanner.png",
+    "Developer": "AppInstaller iOS"
   }
 }
