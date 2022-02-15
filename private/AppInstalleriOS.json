@@ -2,49 +2,49 @@
   "unc0ver": {
     "Icon": "https://icons.appinstallerios.com/Unc0verIcon.png",
     "Name": "unc0ver",
-    "IPA": "https://cdn.altstore.io/file/altstore/apps/delta/1_3_1.ipa",
+    "IPA": "https://appinstallerios.com/private/IPA/unc0ver.ipa",
     "Banner": "https://appinstallerios.com/Img/unc0verBanner.png"
   },
   "ZiniTevi": {
     "Icon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
     "Name": "ZiniTevi",
-    "IPA": "https://zinitevi.github.io/movieapps/apps/zinitevi_adhoc.ipa",
+    "IPA": "https://appinstallerios.com/private/IPA/ZiniTevi.ipa",
     "Banner": "https://appinstallerios.com/Img/ZiniTeviBanner.png"
   },
   "MediaBox HD": {
     "Icon": "https://icons.appinstallerios.com/MediaBoxIcon.png",
     "Name": "MediaBox HD",
-    "IPA": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+    "IPA": "https://appinstallerios.com/private/IPA/MediaBox.ipa",
     "Banner": "https://appinstallerios.com/Img/MediaBoxBanner.png"
   },
   "Odyssey": {
     "Icon": "https://icons.appinstallerios.com/OdysseyIcon.png",
     "Name": "Odyssey",
-    "IPA": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+    "IPA": "https://appinstallerios.com/private/IPA/Odyssey.ipa",
     "Banner": "https://appinstallerios.com/Img/OdysseyBanner.png"
   },
   "Scarlet": {
     "Icon": "https://icons.appinstallerios.com/ScarletIcon.png",
     "Name": "Scarlet",
-    "IPA": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+    "IPA": "https://appinstallerios.com/private/IPA/Scarlet.ipa",
     "Banner": "https://appinstallerios.com/Img/ScarletBanner.png"
   },
   "Taurine": {
     "Icon": "https://icons.appinstallerios.com/TaurineIcon.png",
     "Name": "Taurine",
-    "IPA": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+    "IPA": "https://appinstallerios.com/private/IPA/Taurine.ipa",
     "Banner": "https://appinstallerios.com/Img/TaurineBanner.png"
   },
   "YouTube Reborn": {
     "Icon": "https://icons.appinstallerios.com/YouTubeIcon.png",
     "Name": "YouTube Reborn",
-    "IPA": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+    "IPA": "https://appinstallerios.com/private/IPA/YouTube.ipa",
     "Banner": "https://appinstallerios.com/Img/YouTubeBanner.png"
   },
   "MagicSign": {
     "Icon": "https://icons.appinstallerios.com/MagicSignIcon.png",
     "Name": "MagicSign",
-    "IPA": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.1/Taurine-1.1.1.ipa",
+    "IPA": "https://appinstallerios.com/private/IPA/MagicSign.ipa",
     "Banner": "https://appinstallerios.com/Img/MagicSignBanner.png"
   }
 }
