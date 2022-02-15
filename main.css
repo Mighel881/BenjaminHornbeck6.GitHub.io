@@ -19,6 +19,7 @@ text-decoration: none;
   (-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))
 ) {
   .developer {
+    text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
     color: #e8effa;
