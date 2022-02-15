@@ -44,7 +44,8 @@
     "Icon": "https://icons.appinstallerios.com/YouTubeIcon.png",
     "Name": "YouTube Reborn",
     "IPA": "https://appinstallerios.com/private/IPA/YouTube.ipa",
-    "Banner": "https://appinstallerios.com/Img/YouTubeBanner.png"
+    "Banner": "https://appinstallerios.com/Img/YouTubeBanner.png",
+    "Developer": "Google LLC"
   },
   "MagicSign": {
     "Icon": "https://icons.appinstallerios.com/MagicSignIcon.png",
