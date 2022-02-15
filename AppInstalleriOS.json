@@ -1,4 +1,10 @@
 {
+  "Delta": {
+    "Icon": "https://icons.appinstallerios.com/DeltaIcon.png",
+    "Name": "Delta",
+    "IPA": "https://zinitevi.github.io/movieapps/apps/zinitevi_adhoc.ipa",
+    "Banner": "https://appinstallerios.com/Img/DeltaBanner.png"
+  },
   "ZiniTevi": {
     "Icon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
     "Name": "ZiniTevi",
