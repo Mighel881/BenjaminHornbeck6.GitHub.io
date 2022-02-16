@@ -54,9 +54,6 @@
       "debs": [
         ""
       ],
-      "screenshots": [
-        "https://old.appinstallerios.com/img/MediaboxHDScreenshot.png"
-      ],
       "contact": {
         "web": "https://mediaboxhd.net",
         "twitter": "https://twitter.com/mediaboxhd"
@@ -75,9 +72,6 @@
       "debs": [
         ""
       ],
-      "screenshots": [
-        "https://taurine.app/assets/images/ss-3.png"
-      ],
       "contact": {
         "web": "https://AppInstalleriOS.com",
         "twitter": "https://twitter.com/appinstallerios"
@@ -93,12 +87,6 @@
       "category": "Jailbreaks",
       "description": "Jailbreak For iOS 14.0 - 14.3",
       "bundleID": "com.odysseyteam.taurine.2",
-      "debs": [
-        ""
-      ],
-      "screenshots": [
-        "https://taurine.app/assets/images/ss-3.png"
-      ],
       "contact": {
         "web": "https://AppInstalleriOS.com",
         "twitter": "https://twitter.com/appinstallerios"
@@ -116,9 +104,6 @@
       "bundleID": "com.odysseyteam.taurine.1",
       "debs": [
         ""
-      ],
-      "screenshots": [
-        "https://taurine.app/assets/images/ss-3.png"
       ],
       "contact": {
         "web": "https://AppInstalleriOS.com",
