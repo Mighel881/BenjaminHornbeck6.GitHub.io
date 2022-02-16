@@ -1,12 +1,12 @@
 {
   "META": {
     "repoName": "Private AI",
-    "repoIcon": "https://icons.appinstallerios.com/AppInstalleriOSIcon.png"
+    "repoIcon": "private/Files/Icons/AppInstalleriOSIconCircle.png"
   },
   "Tweaked": [
     {
       "name": "unc0ver",
-      "version": "6.1.2",
+      "version": "8.0.2",
       "icon": "https://icons.appinstallerios.com/Unc0verIcon.png",
       "down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
       "dev": "pwn20wnd",
@@ -16,10 +16,6 @@
       "bundleID": "science.xnu.undecimus",
       "debs": [
         ""
-      ],
-      "screenshots": [
-        "https://appinstallerios.com/Img/Screenshots/Unc0verScreenshot1.png",
-        "https://appinstallerios.com/Img/Screenshots/Unc0verScreenshot2.png"
       ],
       "contact": {
         "web": "https://AppInstalleriOS.com",
