@@ -28,6 +28,7 @@
       "icon": "https://appinstallerios.com/private/Files/Icons/ZiniTeviIcon.png",
       "down": "https://zinitevi.github.io/movieapps/apps/zinitevi_adhoc.ipa",
       "dev": "ZiniTevi",
+      "banner": "https://appinstallerios.com/private/Files/Banners/ZiniTeviBanner.png",
       "category": "Tweaked Apps",
       "description": "Watch Movies For Free!",
       "bundleID": "com.ZiniTevi.app",
