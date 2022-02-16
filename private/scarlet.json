@@ -25,12 +25,12 @@
     {
       "name": "ZiniTevi",
       "version": "1.0.",
-      "icon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
+      "icon": "https://appinstallerios.com/private/Files/Icons/ZiniTeviIcon.png",
       "down": "https://resources.appinstallerios.com/ZiniTevi.ipa",
-      "dev": "AppInstaller iOS",
+      "dev": "ZiniTevi",
       "category": "Tweaked Apps",
       "description": "Watch Movies For Free!",
-      "bundleID": "com.AppInstalleriOS.ZiniTevi",
+      "bundleID": "com.ZiniTevi.app",
       "debs": [
         ""
       ],
