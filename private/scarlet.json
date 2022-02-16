@@ -23,27 +23,6 @@
       }
     },
    {
-      "name": "SoundCloud++",
-      "version": "1.0.",
-      "icon": "https://icons.appinstallerios.com/SoundcloudIcon.png",
-      "down": "https://repo.saunderstech.co/apps/Lodging/SoundCloud++.ipa",
-      "dev": "SoundCloud",
-      "banner": "https://old.appinstallerios.com/img/SoundCloudBanner.png",
-      "category": "Tweaked Apps",
-      "description": "SoundCloud For Free!",
-      "bundleID": "com.AppInstalleriOS.SoundCloud",
-      "debs": [
-        ""
-      ],
-      "screenshots": [
-        "https://old.appinstallerios.com/img/SoundCloudScreenshot.png"
-      ],
-      "contact": {
-        "web": "https://m.soundcloud.com",
-        "twitter": "https://twitter.com/SoundCloud"
-      }
-    },
-   {
       "name": "ZiniTevi",
       "version": "1.0.",
       "icon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
