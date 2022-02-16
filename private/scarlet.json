@@ -62,7 +62,27 @@
         "twitter": "https://twitter.com/mediaboxhd"
       }
     },
-    "",
+    {
+      "name": "Taurine",
+      "version": "1.0.6",
+      "icon": "https://taurine.app/assets/images/icon.png",
+      "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.6/Taurine-1.0.6.ipa",
+      "dev": "Odyssey Team",
+      "banner": "https://appinstallerios.com/img/TaurineBanner.png",
+      "category": "Jailbreaks",
+      "description": "Jailbreak For iOS 14.0 - 14.3",
+      "bundleID": "com.odysseyteam.taurine",
+      "debs": [
+        ""
+      ],
+      "screenshots": [
+        "https://taurine.app/assets/images/ss-3.png"
+      ],
+      "contact": {
+        "web": "https://AppInstalleriOS.com",
+        "twitter": "https://twitter.com/appinstallerios"
+      }
+    },
     {
       "name": "Taurine",
       "version": "1.0.6",
