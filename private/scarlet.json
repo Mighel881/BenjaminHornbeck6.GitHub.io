@@ -77,17 +77,17 @@
       }
     },
     {
-      "name": "Taurine",
-      "version": "1.1.1",
+      "name": "Scarlet",
+      "version": "1.0",
       "icon": "https://taurine.app/assets/images/icon.png",
       "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.6/Taurine-1.0.6.ipa",
-      "dev": "Odyssey Team",
+      "dev": "Scarlet",
       "banner": "https://appinstallerios.com/img/TaurineBanner.png",
-      "category": "Jailbreaks",
-      "description": "Jailbreak For iOS 14.0 - 14.3",
-      "bundleID": "com.odysseyteam.taurine.2",
+      "category": "Tweaked Apps",
+      "description": "",
+      "bundleID": "com.Scarlet.app",
       "contact": {
-        "web": "https://taurine.app",
+        "web": "https://usescarlet.com",
         "twitter": "https://twitter.com/appinstallerios"
       }
     },
