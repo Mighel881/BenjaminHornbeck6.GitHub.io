@@ -10,7 +10,7 @@
       "icon": "https://icons.appinstallerios.com/Unc0verIcon.png",
       "down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
       "dev": "pwn20wnd",
-      "banner": "https://appinstallerios.com/Img/unc0verBanner.png",
+      "banner": "https://appinstallerios.com/private/Files/Banners/unc0verBanner.png",
       "category": "Jailbreaks",
       "description": "Jailbreak iOS 11 - 14.3",
       "bundleID": "science.xnu.undecimus",
@@ -18,8 +18,8 @@
         ""
       ],
       "contact": {
-        "web": "https://AppInstalleriOS.com",
-        "twitter": "https://twitter.com/appinstallerios"
+        "web": "https://unc0ver.dev",
+        "twitter": "https://twitter.com/unc0verteam"
       }
     },
     {
