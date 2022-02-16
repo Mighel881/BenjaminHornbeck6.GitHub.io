@@ -60,11 +60,11 @@
     },
     {
       "name": "Taurine",
-      "version": "1.0.6",
-      "icon": "https://taurine.app/assets/images/icon.png",
-      "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.6/Taurine-1.0.6.ipa",
+      "version": "1.1.1",
+      "icon": "https://appinstallerios.com/private/Files/Icons/TaurineIcon.png",
+      "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.1/Taurine-1.1.1.ipa",
       "dev": "Odyssey Team",
-      "banner": "https://appinstallerios.com/img/TaurineBanner.png",
+      "banner": "https://appinstallerios.com/private/Files/Banners/TaurineBanner.png",
       "category": "Jailbreaks",
       "description": "Jailbreak For iOS 14.0 - 14.3",
       "bundleID": "com.odysseyteam.taurine",
@@ -72,13 +72,13 @@
         ""
       ],
       "contact": {
-        "web": "https://AppInstalleriOS.com",
-        "twitter": "https://twitter.com/appinstallerios"
+        "web": "https://taurine.app",
+        "twitter": "https://twitter.com/odysseyteam_"
       }
     },
     {
       "name": "Taurine",
-      "version": "1.0.6",
+      "version": "1.1.1",
       "icon": "https://taurine.app/assets/images/icon.png",
       "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.6/Taurine-1.0.6.ipa",
       "dev": "Odyssey Team",
@@ -87,7 +87,7 @@
       "description": "Jailbreak For iOS 14.0 - 14.3",
       "bundleID": "com.odysseyteam.taurine.2",
       "contact": {
-        "web": "https://AppInstalleriOS.com",
+        "web": "https://taurine.app",
         "twitter": "https://twitter.com/appinstallerios"
       }
     },
