@@ -43,12 +43,13 @@
     {
       "name": "MediaBox HD",
       "version": "1.0.",
-      "icon": "https://icons.appinstallerios.com/MediaBoxIcon.png",
-      "down": "https://mediaboxhd.net/ios/mediaboxhd1.ipa",
-      "dev": "MediaBox Team",
+      "icon": "https://appinstallerios.com/private/Files/Icons/MediaBoxIcon.png",
+      "down": "https://mediaboxhd.net/download/mediaboxhd_2.ipa",
+      "dev": "MediaBox",
+      "banner": "https://appinstallerios.com/private/Files/Banners/MediaBoxBanner.png",
       "category": "Tweaked Apps",
       "description": "The Best Entertainment App For You And Your Family",
-      "bundleID": "com.AppInstalleriOS.MediaBoxHD",
+      "bundleID": "com.MediaBoxHD.app",
       "debs": [
         ""
       ],
