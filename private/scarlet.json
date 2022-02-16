@@ -79,16 +79,16 @@
     {
       "name": "Scarlet",
       "version": "1.0",
-      "icon": "https://taurine.app/assets/images/icon.png",
+      "icon": "https://appinstallerios.com/private/Files/Icons/ScarletIcon.png",
       "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.6/Taurine-1.0.6.ipa",
       "dev": "Scarlet",
-      "banner": "https://appinstallerios.com/img/TaurineBanner.png",
+      "banner": "https://appinstallerios.com/private/Files/Banner/ScarletBanner.png",
       "category": "Tweaked Apps",
       "description": "",
       "bundleID": "com.Scarlet.app",
       "contact": {
         "web": "https://usescarlet.com",
-        "twitter": "https://twitter.com/appinstallerios"
+        "twitter": "https://twitter.com/getscarlet"
       }
     },
     {
