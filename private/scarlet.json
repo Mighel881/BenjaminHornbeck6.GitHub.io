@@ -26,7 +26,7 @@
       "name": "ZiniTevi",
       "version": "1.0.",
       "icon": "https://appinstallerios.com/private/Files/Icons/ZiniTeviIcon.png",
-      "down": "https://resources.appinstallerios.com/ZiniTevi.ipa",
+      "down": "https://zinitevi.github.io/movieapps/apps/zinitevi_adhoc.ipa",
       "dev": "ZiniTevi",
       "category": "Tweaked Apps",
       "description": "Watch Movies For Free!",
@@ -34,11 +34,8 @@
       "debs": [
         ""
       ],
-      "screenshots": [
-        "https://old.appinstallerios.com/img/b.png"
-      ],
       "contact": {
-        "web": "https://appinstallerios.com",
+        "web": "https://zinitevi.github.io/movieapps/",
         "twitter": "https://twitter.com/AppInstalleriOS"
       }
     },
