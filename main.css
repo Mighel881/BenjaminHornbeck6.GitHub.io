@@ -71,7 +71,7 @@ border-bottom-right-radius: 25px;
 background: linear-gradient(45deg, rgba(76, 0, 231,.1) 0%, rgba(160, 47, 232,.6) 100%);
 -webkit-backdrop-filter: blur(20px);
 backdrop-filter: blur(20px);
-box-shadow: 1px 2px 10px rgba(160, 47, 232,.6);
+box-shadow: 1px 2px 10px rgba(76, 0, 231,.6);
 }
 @supports (
   (-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))
@@ -89,7 +89,7 @@ box-shadow: 1px 2px 10px rgba(160, 47, 232,.6);
     background: linear-gradient(45deg, rgba(76, 0, 231,.1) 0%, rgba(160, 47, 232,.6) 100%);
     -webkit-backdrop-filter: blur(20px);
     backdrop-filter: blur(20px);
-    box-shadow: 1px 2px 10px rgba(160, 47, 232,.6);
+    box-shadow: 1px 2px 10px rgba(76, 0, 231,.6);
   }
 }
 .top h1 {
@@ -182,7 +182,7 @@ margin-left: 60px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
     background: linear-gradient(45deg, rgba(76, 0, 231,.1) 0%, rgba(160, 47, 232,.6) 100%);
-    box-shadow: 1px 2px 10px rgba(160, 47, 232,.6);
+    box-shadow: 1px 2px 10px rgba(76, 0, 231,.6);
     -webkit-backdrop-filter: blur(20px);
     backdrop-filter: blur(20px);
   }
@@ -211,7 +211,7 @@ margin: 10px;
 margin-bottom: 30px;
 max-width: 475px;
 display: inline-block;
-box-shadow: 1px 2px 10px rgba(160, 47, 232,.6);
+box-shadow: 1px 2px 10px rgba(76, 0, 231,.6);
 }
 .top-app .banner {
 width: 100%;
@@ -261,7 +261,7 @@ border: none;
 background: #1C0B36;
 -webkit-backdrop-filter: blur(20px);
 backdrop-filter: blur(20px);
-box-shadow: 1px 2px 10px rgba(160, 47, 232,.6);
+box-shadow: 1px 2px 10px rgba(76, 0, 231,.6);
 }
 #myInput::placeholder {
 color: #e8effa;
