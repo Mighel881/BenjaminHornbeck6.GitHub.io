@@ -31,7 +31,7 @@ color: #e8effa;
 .noJS {
 background: linear-gradient(45deg, rgba(76, 0, 231,.1) 0%, rgba(160, 47, 232,.6) 100%);
 border-radius: 25px;
-width: 225px;
+width: 125px;
 box-shadow: 1px 2px 10px rgba(160, 47, 232,.6);
 font-size: 20px;
 font-weight: 600;
