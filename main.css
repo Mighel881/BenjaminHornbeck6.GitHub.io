@@ -16,7 +16,8 @@ a {
 text-decoration: none;
 }
 .shortcut_app {	
-width: 85%;
+width: 75%;
+max-width: 475px;
 padding: 8px;
 border-radius: 15px;
 background: linear-gradient(45deg, rgba(76, 0, 231,.1) 0%, rgba(160, 47, 232,.6) 100%);
