@@ -202,6 +202,15 @@ margin-top: 2px;
 margin-bottom: 0px;
 margin-left: 60px;
 }
+.apps p {
+font-size: 14px;
+font-weight: 400;
+margin-left: 60px;
+margin-top: 0px;
+margin-bottom: 0px;
+color: #e8effa;
+text-align: justify;
+}
 @supports (
   (-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))
 ) {
