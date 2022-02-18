@@ -174,13 +174,15 @@ font-size: 45px;
 margin: 15.8px;
 }
 .nav a.active {
-color: #4C00E7;
+color: rgba(76, 0, 231,.1);
+-webkit-backdrop-filter: blur(20px);
+backdrop-filter: blur(20px);
 }
 .nav a.un-active {
 color: #e8effa;
 }
 .apps {	
-width: 75%;
+width: 80%;
 max-width: 475px;
 padding: 8px;
 border-radius: 15px;
