@@ -174,7 +174,7 @@ font-size: 45px;
 margin: 15.8px;
 }
 .nav a.active {
-color: rgba(76, 0, 231,.1) 0%;
+color: rgba(76, 0, 231,1.2) 0%;
 }
 .nav a.un-active {
 color: #e8effa;
