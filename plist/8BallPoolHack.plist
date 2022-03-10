@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.SuperCharge.8 Ball Pool Hack</string>
+				<string>com.AppInstalleriOS.8BallPoolHack</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SuperCharge - 8 Ball Pool Hack</string>
+				<string>AppInstaller iOS - 8 Ball Pool Hack</string>
 			</dict>
 		</dict>
 	</array>
