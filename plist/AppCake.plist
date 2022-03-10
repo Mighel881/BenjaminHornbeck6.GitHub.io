@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.SuperCharge.AppCake</string>
+				<string>com.AppInstalleriOS.AppCake</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>SuperCharge - AppCake</string>
+				<string>AppInstaller iOS - AppCake</string>
 			</dict>
 		</dict>
 	</array>
