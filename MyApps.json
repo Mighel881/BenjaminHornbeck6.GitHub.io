@@ -1,7 +1,7 @@
 {
-  "name": "Private AI",
-  "identifier": "com.AppInstalleriOS.PrivateAI.AltStoreRepo",
-  "sourceURL": "https://appinstallerios.com/private/AltStore.json",
+  "AppInstaller iOS",
+  "identifier": "com.AppInstalleriOS.MyApps",
+  "sourceURL": "https://appinstallerios.com/MyApps.json",
   "apps": [],
   "news": [
    {
