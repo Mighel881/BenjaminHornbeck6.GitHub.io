@@ -1,11 +1,11 @@
 {
-  "AppInstaller iOS",
-  "identifier": "com.AppInstalleriOS.MyApps",
-  "sourceURL": "https://appinstallerios.com/MyApps.json",
+  "name": "AIapps",
+  "identifier": "com.AppInstalleriOS.AIapps",
+  "sourceURL": "https://appinstallerios.com/AIapps.json",
   "apps": [],
   "news": [
    {
-      "title": "Private Appinstaller",
+      "title": "AIapps",
       "identifier": "com.AppInstalleriOS.PrivateAI.AltStoreRepo.Home",
       "caption": "Private AI. Tap To View",
       "url": "https://appinstallerios.com/private/Files/AltStore.html",
