@@ -1,0 +1,32 @@
+
+  [
+    {
+      "Title": "Apple Support",
+      "Dev": "Apple",
+      "version": "1.0",
+      "Build": "(1)",
+      "AppID": "1130498044",
+      "iPhone": "tel://8002752273",
+      "Email": "noreply@email.apple.com",
+      "Web": "https://support.apple.com",
+      "Icon": "icon",
+      "MessageTitle": "Hello",
+      "Message": "Hello"
+    }
+  ],
+  [
+    {
+      "Title": "Apple Support",
+      "Dev": "Apple",
+      "version": "1.0",
+      "Build": "(1)",
+      "AppID": "1130498044",
+      "iPhone": "tel://8002752273",
+      "Email": "noreply@email.apple.com",
+      "Web": "https://support.apple.com",
+      "Icon": "icon",
+      "MessageTitle": "Hello",
+      "Message": "Hello"
+    }
+  ]
+]
