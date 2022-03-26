@@ -5,21 +5,21 @@
     {
       "Icon": "https://icons.appinstallerios.com/Unc0verIcon.png",
       "Name": "unc0ver",
-      "Plist": "https://appinstallerios.com/private/IPA/unc0ver.ipa",
+      "Plist": "https://appinstallerios.com/private/plist/unc0ver.plist",
       "Banner": "https://appinstallerios.com/Img/unc0verBanner.png",
       "Developer": "pwn20wnd"
     },
     {
       "Icon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
       "Name": "ZiniTevi",
-      "Plist": "https://appinstallerios.com/private/IPA/ZiniTevi.ipa",
+      "Plist": "https://appinstallerios.com/private/plist/ZiniTevi.plist",
       "Banner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
       "Developer": "ZiniTevi Team"
     },
     {
       "Icon": "https://icons.appinstallerios.com/MediaBoxIcon.png",
       "Name": "MediaBox HD",
-      "Plist": "https://appinstallerios.com/private/IPA/MediaBox.ipa",
+      "Plist": "https://appinstallerios.com/private/plist/MediaBox.plist",
       "Banner": "https://appinstallerios.com/Img/MediaBoxBanner.png",
       "Developer": "AppInstaller iOS"
     },
