@@ -33,14 +33,14 @@
     {
       "Icon": "https://icons.appinstallerios.com/ScarletIcon.png",
       "Name": "Scarlet",
-      "Plist": "https://appinstallerios.com/private/IPA/Scarlet.ipa",
+      "Plist": "https://appinstallerios.com/private/plist/Scarlet.plist",
       "Banner": "https://appinstallerios.com/Img/ScarletBanner.png",
       "Developer": "DebianArch"
     },
     {
       "Icon": "https://icons.appinstallerios.com/TaurineIcon.png",
       "Name": "Taurine",
-      "Plist": "https://appinstallerios.com/private/IPA/Taurine.ipa",
+      "Plist": "https://appinstallerios.com/private/plist/Taurine.plist",
       "Banner": "https://appinstallerios.com/Img/TaurineBanner.png",
       "Developer": "CoolStar"
     },
