@@ -4,56 +4,56 @@
     {
       "Icon": "https://icons.appinstallerios.com/Unc0verIcon.png",
       "Name": "unc0ver",
-      "IPA": "https://appinstallerios.com/private/IPA/unc0ver.ipa",
+      "Plist": "https://appinstallerios.com/private/IPA/unc0ver.ipa",
       "Banner": "https://appinstallerios.com/Img/unc0verBanner.png",
       "Developer": "pwn20wnd"
     },
     {
       "Icon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
       "Name": "ZiniTevi",
-      "IPA": "https://appinstallerios.com/private/IPA/ZiniTevi.ipa",
+      "Plist": "https://appinstallerios.com/private/IPA/ZiniTevi.ipa",
       "Banner": "https://appinstallerios.com/Img/ZiniTeviBanner.png",
       "Developer": "ZiniTevi Team"
     },
     {
       "Icon": "https://icons.appinstallerios.com/MediaBoxIcon.png",
       "Name": "MediaBox HD",
-      "IPA": "https://appinstallerios.com/private/IPA/MediaBox.ipa",
+      "Plist": "https://appinstallerios.com/private/IPA/MediaBox.ipa",
       "Banner": "https://appinstallerios.com/Img/MediaBoxBanner.png",
       "Developer": "AppInstaller iOS"
     },
     {
       "Icon": "https://icons.appinstallerios.com/OdysseyIcon.png",
       "Name": "Odyssey",
-      "IPA": "https://appinstallerios.com/private/IPA/Odyssey.ipa",
+      "Plist": "https://appinstallerios.com/private/IPA/Odyssey.ipa",
       "Banner": "https://appinstallerios.com/Img/OdysseyBanner.png",
       "Developer": "CoolStar"
     },
     {
       "Icon": "https://icons.appinstallerios.com/ScarletIcon.png",
       "Name": "Scarlet",
-      "IPA": "https://appinstallerios.com/private/IPA/Scarlet.ipa",
+      "Plist": "https://appinstallerios.com/private/IPA/Scarlet.ipa",
       "Banner": "https://appinstallerios.com/Img/ScarletBanner.png",
       "Developer": "DebianArch"
     },
     {
       "Icon": "https://icons.appinstallerios.com/TaurineIcon.png",
       "Name": "Taurine",
-      "IPA": "https://appinstallerios.com/private/IPA/Taurine.ipa",
+      "Plist": "https://appinstallerios.com/private/IPA/Taurine.ipa",
       "Banner": "https://appinstallerios.com/Img/TaurineBanner.png",
       "Developer": "CoolStar"
     },
     {
       "Icon": "https://icons.appinstallerios.com/YouTubeIcon.png",
       "Name": "YouTube Reborn",
-      "IPA": "https://appinstallerios.com/private/IPA/YouTube.ipa",
+      "Plist": "https://appinstallerios.com/private/IPA/YouTube.ipa",
       "Banner": "https://appinstallerios.com/Img/YouTubeBanner.png",
       "Developer": "Google LLC"
     },
     {
       "Icon": "https://icons.appinstallerios.com/MagicSignIcon.png",
       "Name": "MagicSign",
-      "IPA": "https://appinstallerios.com/private/IPA/MagicSign.ipa",
+      "Plist": "https://appinstallerios.com/private/IPA/MagicSign.ipa",
       "Banner": "https://appinstallerios.com/Img/MagicSignBanner.png",
       "Developer": "AppInstaller iOS"
     }
