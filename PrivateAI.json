@@ -26,7 +26,7 @@
     {
       "Icon": "https://icons.appinstallerios.com/OdysseyIcon.png",
       "Name": "Odyssey",
-      "Plist": "https://appinstallerios.com/private/IPA/Odyssey.ipa",
+      "Plist": "https://appinstallerios.com/private/plist/Odyssey.plist",
       "Banner": "https://appinstallerios.com/Img/OdysseyBanner.png",
       "Developer": "CoolStar"
     },
