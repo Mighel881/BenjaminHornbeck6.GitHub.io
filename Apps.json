@@ -1,0 +1,42 @@
+[
+  {
+    "AppName": "unc0ver",
+    "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist"
+  },
+  {
+    "AppName": "Taurine",
+    "AppIcon": "https://icons.appinstallerios.com/TaurineIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/Taurine.plist"
+  },
+  {
+    "AppName": "Delta",
+    "AppIcon": "https://icons.appinstallerios.com/DeltaIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/Delta.plist"
+  },
+  {
+    "AppName": "Cercube 5",
+    "AppIcon": "https://icons.appinstallerios.com/CercubeIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/Cercube.plist"
+  },
+  {
+    "AppName": "Saily",
+    "AppIcon": "https://icons.appinstallerios.com/SailyIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/Saily.plist"
+  },
+  {
+    "AppName": "ZiniTevi",
+    "AppIcon": "https://icons.appinstallerios.com/ZiniTeviIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/ZiniTevi.plist"
+  },
+  {
+    "AppName": "UTM",
+    "AppIcon": "https://icons.appinstallerios.com/UTMIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/UTM.plist"
+  },
+  {
+    "AppName": "iNDS",
+    "AppIcon": "https://icons.appinstallerios.com/iNDSIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/iNDS.plist"
+  }
+]
