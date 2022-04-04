@@ -38,5 +38,10 @@
     "AppName": "iNDS",
     "AppIcon": "https://icons.appinstallerios.com/iNDSIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/iNDS.plist"
+  },
+  {
+    "AppName": "SpringBoard",
+    "AppIcon": "https://icons.appinstallerios.com/SpringBoardIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/SpringBoard.plist"
   }
 ]
