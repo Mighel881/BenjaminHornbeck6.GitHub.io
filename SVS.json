@@ -1,1 +1,27 @@
-
+[
+  {
+    "Title": "Taurine",
+    "Banner": "https://appinstallerios.com/AppResources/Banner/Taurine.png",
+    "Install": "https://appinstallerios.com/AppResources/Plist/Taurine.plist"
+  },
+  {
+    "Title": "unc0ver",
+    "Banner": "https://appinstallerios.com/AppResources/Banner/unc0ver.png",
+    "Install": "https://appinstallerios.com/AppResources/Plist/unc0ver.plist"
+  },
+  {
+    "Title": "Saily",
+    "Banner": "https://appinstallerios.com/AppResources/Banner/Saily.png",
+    "Install": "https://appinstallerios.com/AppResources/Plist/Saily.plist"
+  },
+  {
+    "Title": "Cercube 5",
+    "Banner": "https://appinstallerios.com/AppResources/Banner/Cercube.png",
+    "Install": "https://appinstallerios.com/AppResources/Plist/Cercube.plist"
+  },
+  {
+    "Title": "ZiniTevi",
+    "Banner": "https://appinstallerios.com/AppResources/Banner/ZiniTevi.png",
+    "Install": "https://appinstallerios.com/AppResources/Plist/ZiniTevi.plist"
+  }
+]
