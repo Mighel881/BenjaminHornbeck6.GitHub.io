@@ -1,0 +1,14 @@
+[
+  {
+    "AppName": "unc0ver",
+    "AppDeveloper": "Pwn20wnd",
+    "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist"
+  },
+  {
+    "AppName": "Taurine",
+    "AppDeveloper": "CoolStar",
+    "AppIcon": "https://icons.appinstallerios.com/TaurineIcon.png",
+    "AppPlist": "https://appinstallerios.com/plist/Taurine.plist"
+  }
+]
