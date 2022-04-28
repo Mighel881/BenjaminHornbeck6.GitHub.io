@@ -3,12 +3,22 @@
     "AppName": "unc0ver",
     "AppDeveloper": "Pwn20wnd",
     "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
-    "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist"
+    "AppPlist": "https://appinstallerios.com/plist/unc0ver.plist",
+    "AppBanner": "",
+    "Twitter": "",
+    "Website": "",
+    "Screenshot1": "",
+    "Screenshot2": ""
   },
   {
     "AppName": "Taurine",
     "AppDeveloper": "CoolStar",
     "AppIcon": "https://icons.appinstallerios.com/TaurineIcon.png",
-    "AppPlist": "https://appinstallerios.com/plist/Taurine.plist"
+    "AppPlist": "https://appinstallerios.com/plist/Taurine.plist",
+    "AppBanner": "",
+    "Twitter": "",
+    "Website": "",
+    "Screenshot1": "",
+    "Screenshot2": ""
   }
 ]
