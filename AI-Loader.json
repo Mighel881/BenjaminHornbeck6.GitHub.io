@@ -8,7 +8,8 @@
     "Twitter": "",
     "Website": "https://unc0ver.dev",
     "Screenshot1": "",
-    "Screenshot2": ""
+    "Screenshot2": "",
+    "AppSlider": false
   },
   {
     "AppName": "Taurine",
@@ -19,6 +20,7 @@
     "Twitter": "",
     "Website": "https://taurine.app",
     "Screenshot1": "",
-    "Screenshot2": ""
+    "Screenshot2": "",
+    "AppSlider": false
   }
 ]
