@@ -9,7 +9,10 @@
     "Website": "https://unc0ver.dev",
     "Screenshot1": "",
     "Screenshot2": "",
-    "AppScreenshots": ["https://appinstallerios.com/Screenshots/Unc0verScreenshot1.png", "https://appinstallerios.com/Screenshots/Unc0verScreenshot2.png"],
+    "AppScreenshots": [
+      "https://appinstallerios.com/Screenshots/Unc0verScreenshot1.png",
+      "https://appinstallerios.com/Screenshots/Unc0verScreenshot2.png"
+    ],
     "AppSlider": true
   },
   {
@@ -22,7 +25,10 @@
     "Website": "https://taurine.app",
     "Screenshot1": "",
     "Screenshot2": "",
-    "AppScreenshots": [],
+    "AppScreenshots": [
+      "https://appinstallerios.com/Screenshots/TaurineScreenshot1.png",
+      "https://appinstallerios.com/Screenshots/TaurineScreenshot2.png"
+    ],
     "AppSlider": true
   }
 ]
