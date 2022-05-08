@@ -1,7 +1,7 @@
 [
   {
     "AppName": "AppInstalleriOS",
-    "AppDeveloper": "Benjamin",
+    "AppDeveloper": "Benjamin Hornbeck",
     "AppIcon": "https://appinstallerios.com/Img/AppInstalleriOSIcon.png",
     "AppPlist": "https://appinstallerios.com/plist/AppInstalleriOSPublic.plist",
     "AppBanner": "https://appinstallerios.com/Img/AppInstalleriOSBanner.png",
