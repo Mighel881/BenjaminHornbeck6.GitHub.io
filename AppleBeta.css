@@ -41,7 +41,7 @@ font-family: Font;
 src: url(Font.TTF);
 }
 .top-app {
-background: linear-gradient(45deg, rgba(220, 139, 15,.1) 0%, rgba(220, 139, 15,.4) 100%);
+background: linear-gradient(45deg, rgba(220, 134, 15,.1) 0%, rgba(220, 134, 15,.4) 100%);
 padding-bottom: 15px;
 border-radius: 25px;
 width: 75%;
