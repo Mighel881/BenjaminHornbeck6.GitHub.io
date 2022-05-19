@@ -12,8 +12,8 @@
     "DockOpacity": 0
   },
   {
-    "PackageName": "Hide Dock",
-    "PackageID": "com.NewOS.HideDock",
+    "PackageName": "Test Dock",
+    "PackageID": "com.NewOS.TestDock",
     "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
     "PackageVersion": "1.0",
     "AuthorEmail": "benjaminhornbeck6@gmail.com",
