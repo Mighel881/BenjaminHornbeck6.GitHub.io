@@ -10,5 +10,16 @@
     "Description": "Hide The Dock For New OS",
     "Category": "Tweaks",
     "DockOpacity": 0
+  },
+  {
+    "PackageName": "Cool Dock",
+    "PackageID": "com.NewOS.CoolDock",
+    "PackageVersion": "1.0",
+    "AuthorEmail": "benjaminhornbeck6@gmail.com",
+    "ContactEmail": "benjaminhornbeck6@gmail.com",
+    "Website": "https://appinstallerios.com",
+    "Description": "Make The Dock Look Good For New OS",
+    "Category": "Tweaks",
+    "DockOpacity": 0.5
   }
 ]
