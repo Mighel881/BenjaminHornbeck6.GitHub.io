@@ -36,6 +36,10 @@ border-radius: 50%;
 width: 13px;
 height: 13px;
 }
+@font-face {
+font-family: Font;
+src: url(Font.TTF);
+}
 .top-app {
 background: linear-gradient(45deg, rgba(76, 0, 231,.1) 0%, rgba(160, 47, 232,.6) 100%);
 padding-bottom: 15px;
