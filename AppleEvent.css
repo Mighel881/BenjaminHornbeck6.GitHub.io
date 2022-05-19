@@ -288,30 +288,3 @@ margin-bottom: 0px;
 color: #e8effa;
 text-align: justify;
 }
-#myInput {	
-background-position: 10px 12px;
-background-repeat: no-repeat;
-width: 45%;
-height: 1%;
-font-size: 16px;
-padding: 10px 17px 10px 37px;
-margin-bottom: 9px;
-margin: 10px;
-border-radius: 20px;
-color: #e8effa;
-outline: none;
-border: none;
-background: #1C0B36;
--webkit-backdrop-filter: blur(20px);
-backdrop-filter: blur(20px);
-box-shadow: 1px 2px 10px rgba(76, 0, 231,.6);
-}
-#myInput::placeholder {
-color: #e8effa;
-}
-#myUL {
-/* Remove default list styling */
-list-style-type: none;
-padding: 0;
-margin: 0;
-}
