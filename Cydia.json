@@ -14,6 +14,7 @@
   {
     "PackageName": "Cool Dock",
     "PackageID": "com.NewOS.CoolDock",
+    "AppIcon": "https://icons.appinstallerios.com/Unc0verIcon.png",
     "PackageVersion": "1.0",
     "AuthorEmail": "benjaminhornbeck6@gmail.com",
     "ContactEmail": "benjaminhornbeck6@gmail.com",
