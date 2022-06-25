@@ -1,6 +1,19 @@
 {
   "Apps": [
     {
+      "AppName": "uYouPlus_17.22.3_2.1",
+      "AppDeveloper": "Starfiles",
+      "AppIcon": "https://api.starfiles.co/direct/726VH5XCg7vZ?preview",
+      "AppPlist": "https://api.starfiles.co/installipa/3ff999772e2d",
+      "AppBanner": "https://api.starfiles.co/direct/726VH5XCg7vZ?preview",
+      "Twitter": "StarfilesHelp",
+      "Website": "https://starfiles.co/file/3ff999772e2d",
+      "AppDescription": "uYouPlus_17.22.3_2.1 on Starfiles\\n\\nPublic Files: https://cdn.starfiles.co/direct/3ff999772e2d",
+      "IPA": "https://cdn.starfiles.co/direct/3ff999772e2d",
+      "AppSection": "Tweaked",
+      "AppScreenshots": []
+    },
+    {
       "AppName": "FLStudioMobileHD_3.6.17_starsign",
       "AppDeveloper": "Starfiles",
       "AppIcon": "https://api.starfiles.co/direct/g69B60aYXEbk?preview",
@@ -10,7 +23,7 @@
       "Website": "https://starfiles.co/file/00195e4dfacb",
       "AppDescription": "FLStudioMobileHD_3.6.17_starsign on Starfiles\\n\\nPublic Files: https://cdn.starfiles.co/direct/00195e4dfacb",
       "IPA": "https://cdn.starfiles.co/direct/00195e4dfacb",
-      "AppSection": "Test",
+      "AppSection": "Other",
       "AppScreenshots": []
     },
     {
@@ -23,7 +36,7 @@
       "Website": "https://starfiles.co/file/0021e587f53f",
       "AppDescription": "Alto's Odyssey The Lost City on Starfiles\\n\\nPublic Files: https://cdn.starfiles.co/direct/0021e587f53f",
       "IPA": "https://cdn.starfiles.co/direct/0021e587f53f",
-      "AppSection": "Test",
+      "AppSection": "Other",
       "AppScreenshots": []
     },
     {
@@ -36,7 +49,7 @@
       "Website": "https://starfiles.co/file/002306",
       "AppDescription": "",
       "IPA": "https://cdn.starfiles.co/direct/002306",
-      "AppSection": "Test",
+      "AppSection": "Other",
       "AppScreenshots": []
     },
     {
@@ -49,7 +62,7 @@
       "Website": "https://starfiles.co/file/003ecd",
       "AppDescription": "",
       "IPA": "https://cdn.starfiles.co/direct/003ecd",
-      "AppSection": "Test",
+      "AppSection": "Other",
       "AppScreenshots": []
     },
     {
@@ -62,7 +75,7 @@
       "Website": "https://starfiles.co/file/004fd73e0c48",
       "AppDescription": "Procreate Pocket (v4.0.5 v37587 unk PI 64bit os132 ok14)-user_hidden.bfi on Starfiles\\n\\nPublic Files: https://cdn.starfiles.co/direct/004fd73e0c48",
       "IPA": "https://cdn.starfiles.co/direct/004fd73e0c48",
-      "AppSection": "Test",
+      "AppSection": "Other",
       "AppScreenshots": []
     },
     {
@@ -75,7 +88,7 @@
       "Website": "https://starfiles.co/file/009047",
       "AppDescription": "",
       "IPA": "https://cdn.starfiles.co/direct/009047",
-      "AppSection": "Test",
+      "AppSection": "Other",
       "AppScreenshots": []
     },
     {
@@ -88,7 +101,7 @@
       "Website": "https://starfiles.co/file/00a69b",
       "AppDescription": "",
       "IPA": "https://cdn.starfiles.co/direct/00a69b",
-      "AppSection": "Test",
+      "AppSection": "Emulators",
       "AppScreenshots": []
     },
     {
@@ -101,7 +114,7 @@
       "Website": "https://starfiles.co/file/00f6ff0f949f",
       "AppDescription": "ClarityWallpaperPro7.2.6 on Starfiles\\n\\nPublic Files: https://cdn.starfiles.co/direct/00f6ff0f949f",
       "IPA": "https://cdn.starfiles.co/direct/00f6ff0f949f",
-      "AppSection": "Test",
+      "AppSection": "Other",
       "AppScreenshots": []
     },
     {
@@ -114,7 +127,7 @@
       "Website": "https://starfiles.co/file/0177b1f1e437",
       "AppDescription": "cn.danatech.xingseus_3.25.1_Decrypted on Starfiles\\n\\nPublic Files: https://cdn.starfiles.co/direct/0177b1f1e437",
       "IPA": "https://cdn.starfiles.co/direct/0177b1f1e437",
-      "AppSection": "Test",
+      "AppSection": "Other",
       "AppScreenshots": []
     },
     {
@@ -127,7 +140,7 @@
       "Website": "https://starfiles.co/file/01ac90e655b3",
       "AppDescription": "15767-Valiant-Hearts-The-Great-War-v1-2-611 on Starfiles\\n\\nPublic Files: https://cdn.starfiles.co/direct/01ac90e655b3",
       "IPA": "https://cdn.starfiles.co/direct/01ac90e655b3",
-      "AppSection": "Test",
+      "AppSection": "Other",
       "AppScreenshots": []
     },
     {
@@ -140,7 +153,7 @@
       "Website": "https://starfiles.co/file/01bbfea79ee4",
       "AppDescription": "Esign on Starfiles\\n\\nPublic Files: https://cdn.starfiles.co/direct/01bbfea79ee4",
       "IPA": "https://cdn.starfiles.co/direct/01bbfea79ee4",
-      "AppSection": "Test",
+      "AppSection": "Other",
       "AppScreenshots": []
     },
     {
@@ -153,33 +166,7 @@
       "Website": "https://starfiles.co/file/01d9bfea4b55",
       "AppDescription": "Goat_Simulator_v2.0.4_OdinTap.ru_ on Starfiles\\n\\nPublic Files: https://cdn.starfiles.co/direct/01d9bfea4b55",
       "IPA": "https://cdn.starfiles.co/direct/01d9bfea4b55",
-      "AppSection": "Test",
-      "AppScreenshots": []
-    },
-    {
-      "AppName": "Odyssey 1.0.1",
-      "AppDeveloper": "Starfiles",
-      "AppIcon": "https://api.starfiles.co/direct/4QCs54g3DjYm?preview",
-      "AppPlist": "https://api.starfiles.co/installipa/01db9f",
-      "AppBanner": "https://api.starfiles.co/direct/4QCs54g3DjYm?preview",
-      "Twitter": "StarfilesHelp",
-      "Website": "https://starfiles.co/file/01db9f",
-      "AppDescription": "",
-      "IPA": "https://cdn.starfiles.co/direct/01db9f",
-      "AppSection": "Test",
-      "AppScreenshots": []
-    },
-    {
-      "AppName": "uYouPlus_17.16.4_2.1",
-      "AppDeveloper": "Starfiles",
-      "AppIcon": "https://api.starfiles.co/direct/726VH5XCg7vZ?preview",
-      "AppPlist": "https://api.starfiles.co/installipa/025UoQTx3E9O",
-      "AppBanner": "https://api.starfiles.co/direct/726VH5XCg7vZ?preview",
-      "Twitter": "StarfilesHelp",
-      "Website": "https://starfiles.co/file/025UoQTx3E9O",
-      "AppDescription": "uYouPlus_17.16.4_2.1 on Starfiles\\n\\nPublic Files: https://cdn.starfiles.co/direct/025UoQTx3E9O",
-      "IPA": "https://cdn.starfiles.co/direct/025UoQTx3E9O",
-      "AppSection": "Test",
+      "AppSection": "Other",
       "AppScreenshots": []
     },
     {
