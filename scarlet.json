@@ -6,13 +6,13 @@
   "Tweaked": [
     {
       "name": "unc0ver",
-      "version": "6.1.2",
+      "version": "8.0.2",
       "icon": "https://icons.appinstallerios.com/Unc0verIcon.png",
-      "down": "https://unc0ver.dev/downloads/6.1.2/56dd2827d0f4585f6cf21a8e08a1a4eba6f2cdb2/unc0ver_Release_6.1.2.ipa",
+      "down": "https://appinstallerios.com/AppCenter/unc0ver.ipa",
       "dev": "pwn20wnd",
       "banner": "https://appinstallerios.com/img/Unc0verBanner.png",
       "category": "Jailbreaks",
-      "description": "Jailbreak iOS 11 - 14.3",
+      "description": "Jailbreak iOS 11 - 14.8",
       "bundleID": "science.xnu.undecimus",
       "debs": [
         ""
